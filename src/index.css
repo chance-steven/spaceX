@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.bg{
+    background-image: url("src/assets/images section-b.webp");
+}
