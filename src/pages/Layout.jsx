@@ -5,7 +5,7 @@ import Footer from "../components/Footer"
 const Layout = () => {
   return (
     <div>
-    <div className="fixed top-6">
+    <div className="">
     <Navbar />
     </div>
       
